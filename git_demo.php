@@ -6,6 +6,6 @@
 </head>
 
 <body>
-This is demo PHP page for GIT
+This is demo PHP page for GIT second
 </body>
 </html>
